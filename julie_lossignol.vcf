@@ -1,11 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Julie Lossignol
-N:Lossignol;Julie;;;
-TITLE:Coordinatrice pédagogique - Expertise Construction durable
+REV:2025-06-11T00:00:00Z
+N:Lossignol;Julie;;MRS;
+BDAY:1991-08-13
 ORG:INSA Lyon
-TEL;TYPE=work,voice:+33 6 32 41 73 09
-EMAIL;TYPE=internet:julielossignol.pro@gmail.com
-ADR;TYPE=work:;;Oullins-Pierre-Bénite;69600;France
-URL:https://www.linkedin.com/in/julie-lossignol-b64506a0/
+TITLE:Coordinatrice pédagogique - chargée de recherche en génie civil
+NOTE:Docteure-ingénieure en génie civil
+TEL;PREF:0632417309
+EMAIL;INTERNET;HOME:julielossignol.pro@gmail.com
+EMAIL;INTERNET;WORK:julielossignol.pro@gmail.com
+URL;WORK:https://mateis.insa-lyon.fr/fr
+ADR;WORK:Laboratoire MatéIS - Equipe Céra;;9 avenue Jean Capelle Ouest;
+ 69621 Villeurbanne cedex;;;France
 END:VCARD
